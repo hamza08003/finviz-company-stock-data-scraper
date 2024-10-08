@@ -12,5 +12,6 @@ This script automates the process of scraping stock data from the Finviz website
 
 ## How to run:
 
-```python finviz_scraper-main.py
+```python
+python finviz_scraper-main.py
 ```
